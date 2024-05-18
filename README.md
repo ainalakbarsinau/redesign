@@ -12,9 +12,9 @@
 
 # KETERANGAN
 
-•	Dibagian judulnya (BERKSHIRE HATHAWAY INC) saya ubah ukuran nya lebih besar 
-•	Penulisan di bawah sub nya saya perbesar juga (Updated May 4, 2024, dan juga yang lain)
-•	Tulisan If you have any comments about our WEB page, you can write us at the address shown above. However, due to the limited number of personnel in our corporate office, we are unable to provide a direct response. Saya perbesar.
-•	Tulisan FOR A FREE CAR INSURANCE RATE QUOTE THAT COULD SAVE YOU SUBSTANTIAL MONEY
-•	WWW.GEICO.COM OR CALL 1-888-395-6349, 24 HOURS A DAY saya perbesar
-•	Di bagian copyrigt saya pindahkan ke kanan.
+- Dibagian judulnya (BERKSHIRE HATHAWAY INC) saya ubah ukuran nya lebih besar
+- Penulisan di bawah sub nya saya perbesar juga (Updated May 4, 2024, dan juga yang lain)
+- Tulisan If you have any comments about our WEB page, you can write us at the address shown above. However, due to the limited number of personnel in our corporate office, we are unable to provide a direct response. Saya perbesar.
+- Tulisan FOR A FREE CAR INSURANCE RATE QUOTE THAT COULD SAVE YOU SUBSTANTIAL MONEY
+- WWW.GEICO.COM OR CALL 1-888-395-6349, 24 HOURS A DAY saya perbesar
+- Di bagian copyrigt saya pindahkan ke kanan.
